@@ -1,3 +1,5 @@
+![Linkedin_Cove](https://user-images.githubusercontent.com/99672298/185783816-c1682359-9af3-4d29-a23a-fedca43a9f2c.jpg)
+
 <h1 align="center">Hi 👋, I'm Dalvi Moin</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
@@ -45,7 +47,9 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <a href="https://www.youtube.com/channel/UCN7xdRsVxEaaH5H0f3eNNmg" target="blank"><img align="center" src="https://img.icons8.com/color/344/youtube-play.png" alt="MoinDalvs" height="50" width="50" /></a>
 </p>
 
-### `Watch, read, and catch up on content:`
+![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
+
+### `Read and catch up on content:`
 - [Deep Learning article](https://github.com/MoinDalvs/Neural_Networks_From_Scratch/blob/main/README.md) :books:
 - [Time_Series_Forecasting article](https://github.com/MoinDalvs/Time_Series_Forecasting_From_Scratch/blob/main/README.md) ✍️
 - [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
