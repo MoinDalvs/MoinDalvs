@@ -55,6 +55,15 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 - [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
 - [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
 
+
+## 📈 GitHub Activity Graph
+[![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MoinDalvs&&theme=xcode)](https://github.com/MoinDalvs)
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-srivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-srivastava21" /> </p> -->
+
+<!-- <p align="centre"> <a href="https://github.com/Shrey-Srivastava21/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&row=3&margin-w=2&margin-h=15" alt="shrey-srivastava21" /></a> </p> -->
+
+
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MoinDalvs&label=Profile%20views&color=0e75b6&style=circle" alt="MoinDalvs" width="16%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoinDalvs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MoinDalvs" /></p>
