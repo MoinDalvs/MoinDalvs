@@ -35,18 +35,18 @@ href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+## `Connect with me:`
 <p align="left">
 <a href="https://www.linkedin.com/in/moin-dalvi-277b0214a" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="MoinDalvs" height="50" width="50" /></a>
 <a href="https://www.kaggle.com/moindalvi" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="MoinDalvs" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCN7xdRsVxEaaH5H0f3eNNmg" target="blank"><img align="center" src="https://img.icons8.com/color/344/youtube-play.png" alt="MoinDalvs" height="50" width="50" /></a>
 </p>
 
-### Watch, read, and catch up on content:
-- [Deep Learning article](https://github.blog/author/mishmanners/) :books:
-- [Blog posts on DEV](https://dev.to/mishmanners) ✍️
-
-
+### `Watch, read, and catch up on content:`
+- [Deep Learning article](https://github.com/MoinDalvs/Neural_Networks_From_Scratch/blob/main/README.md) :books:
+- [Time_Series_Forecasting article](https://github.com/MoinDalvs/Time_Series_Forecasting_From_Scratch/blob/main/README.md) ✍️
+- [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
+- [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
 
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MoinDalvs&label=Profile%20views&color=0e75b6&style=circle" alt="MoinDalvs" width="16%" /> </p>
@@ -55,7 +55,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=MoinDalvs&theme=neon-palenight" width="50%"  alt="streak"> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoinDalvs&show_icons=true&theme=tokyonight" alt="MoinDalvs" />
 </a> </p>
-
+left
 
 
 
