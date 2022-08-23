@@ -1,4 +1,4 @@
-![Linkedin_Cove](https://user-images.githubusercontent.com/99672298/185783816-c1682359-9af3-4d29-a23a-fedca43a9f2c.jpg)
+![Linkedin_Cover_-_Data_Scientist_py4mog](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
 
 <h1 align="center">Hi 👋, I'm Dalvi Moin</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
