@@ -40,12 +40,13 @@ href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://ra
 <img src="https://user-images.githubusercontent.com/94888819/179422108-0108ecc4-96d4-4a9f-93d2-f4f2ea98688e.png" alt="stream" width="40" height="50"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
-
 ## `Connect with me:`
 <p align="left">
 <a href="https://www.linkedin.com/in/moin-dalvi-277b0214a" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="MoinDalvs" height="50" width="50" /></a>
 <a href="https://www.kaggle.com/moindalvi" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="MoinDalvs" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCN7xdRsVxEaaH5H0f3eNNmg" target="blank"><img align="center" src="https://img.icons8.com/color/344/youtube-play.png" alt="MoinDalvs" height="50" width="50" /></a>
+<a href="https://twitter.com/DalvsHubot" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="MoinDalvs" height="40" width="40" /></a>
+<a href="mailto:moindalvs@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
@@ -65,8 +66,16 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoinDalvs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MoinDalvs" /></p>
 <p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MoinDalvs&show_icons=true&theme=tokyonight"/> </p>
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=MoinDalvs&theme=neon-palenight" width="50%"  alt="streak"> </p>
+<div align="center">
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoinDalvs&show_icons=true&theme=discord" alt="MoinDalvs" />
 </a> </p>
+
+#### Thanks for visiting :heart:
+
+<p align="center"> <a href="https://info.flagcounter.com/cejc"><img src="https://s11.flagcounter.com/count2/cejc/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
+
 
 <div style="align:center;
             display:fill;
