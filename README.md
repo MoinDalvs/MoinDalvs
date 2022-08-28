@@ -53,7 +53,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ### `Read and catch up on content:`
 - [Gradient Descent article](https://github.com/MoinDalvs/Gradient_Descent_For_beginners/blob/main/README.md) ✍️
-- [Deep Learning article](https://github.com/MoinDalvs/Neural_Networks_From_Scratch/blob/main/README.md) :books:
+- [Artificial Neural Network article](https://github.com/MoinDalvs/Neural_Networks_From_Scratch/blob/main/README.md) :books:
 - [Time_Series_Forecasting article](https://github.com/MoinDalvs/Time_Series_Forecasting_From_Scratch/blob/main/README.md) ✍️
 - [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
 - [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
