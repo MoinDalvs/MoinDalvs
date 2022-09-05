@@ -17,7 +17,7 @@
 
 - 📫 You can reach me on my email id moindalvs@gmail.com
 
-## `Project:`
+## `Projects:`
 # Forecasting $CO_2$ Emissions Deployment [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/) 
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
