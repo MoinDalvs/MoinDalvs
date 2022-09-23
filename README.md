@@ -74,11 +74,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoinDalvs&show_icons=true&theme=discord" alt="MoinDalvs" />
 </a> </p>
 
-#### Thanks for visiting :heart:
-
-<p align="center"> <a href="https://info.flagcounter.com/cejc"><img src="https://s11.flagcounter.com/count2/cejc/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
-
-
 <div style="align:center;
             display:fill;
             border-radius: false;
