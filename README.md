@@ -61,7 +61,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 - [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
 - [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
 
-## 📈 GitHub Activity Graph
+## `📈 GitHub Activity Graph:`
 [![Moin Dalvs GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MoinDalvs&&theme=react-dark)](https://github.com/MoinDalvs)
 
 ## `Github Status:` 
