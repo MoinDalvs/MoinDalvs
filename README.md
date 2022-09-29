@@ -66,7 +66,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MoinDalvs&label=Profile%20views&color=0e75b6&style=circle" alt="MoinDalvs" width="16%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoinDalvs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MoinDalvs" /></p>
 <p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoinDalvs&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="MoinDalvs" />
 </p>
 <p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MoinDalvs&show_icons=true&theme=tokyonight"/> </p>
