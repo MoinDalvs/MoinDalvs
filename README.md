@@ -18,9 +18,9 @@
 - 📫 You can reach me on my email id moindalvs@gmail.com
 
 ## `Projects:`
-# Forecasting $CO_2$ Emissions Deployment [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
-# Resume Screening and Parser [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-upload-containter-resume-classification-kflzeg.streamlitapp.com/)
-# Resume Classification [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-classification-trail-resume-szy81n.streamlitapp.com/)
+### Forecasting $CO_2$ Emissions Deployment [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
+### Resume Screening and Parser [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-upload-containter-resume-classification-kflzeg.streamlitapp.com/)
+### Resume Classification [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-classification-trail-resume-szy81n.streamlitapp.com/)
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
