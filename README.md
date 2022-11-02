@@ -53,7 +53,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
-### `Read and catch up on content:`
+## `Read and catch up on content:`
 - [Statistics for Data Science](https://github.com/MoinDalvs/Learn_stats_for-Data_science/blob/main/README.md) :books:
 - [Gradient Descent article](https://github.com/MoinDalvs/Gradient_Descent_For_beginners/blob/main/README.md) ✍️
 - [Artificial Neural Network article](https://github.com/MoinDalvs/Neural_Networks_From_Scratch/blob/main/README.md) :books:
