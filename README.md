@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 💞️ I’m looking to collaborate on all topics related to  Data Science, Machine Learning and Artificial Intellegence.
+- 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
 
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+- 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning
+- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning**
 
-- 📫 You can reach me on my email id moindalvs@gmail.com
+- 📫 You can reach me on my email id **moindalvs@gmail.com**
 
 ## `Projects:`
 ### [Forecasting CO2 Emissions Deployment](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
